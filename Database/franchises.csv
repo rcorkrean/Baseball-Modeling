@@ -1,0 +1,117 @@
+franchID,franchIDFG,franchIDBR,franchIDLahman,yearFirst,yearLast,yearsActive,franchName,isActive
+1,16,ATL,ATL,1871,2023,153,Atlanta Braves,True
+2,17,CHC,CHC,1871,2023,151,Chicago Cubs,True
+3,18,CIN,CIN,1882,2023,142,Cincinnati Reds,True
+4,27,PIT,PIT,1882,2023,142,Pittsburgh Pirates,True
+5,28,STL,STL,1882,2023,142,St. Louis Cardinals,True
+6,26,PHI,PHI,1883,2023,141,Philadelphia Phillies,True
+7,30,SFG,SFG,1883,2023,141,San Francisco Giants,True
+8,22,LAD,LAD,1884,2023,140,Los Angeles Dodgers,True
+9,2,BAL,BAL,1901,2023,123,Baltimore Orioles,True
+10,3,BOS,BOS,1901,2023,123,Boston Red Sox,True
+11,4,CHW,CHW,1901,2023,123,Chicago White Sox,True
+12,5,CLE,CLE,1901,2023,123,Cleveland Guardians,True
+13,6,DET,DET,1901,2023,123,Detroit Tigers,True
+14,8,MIN,MIN,1901,2023,123,Minnesota Twins,True
+15,10,OAK,OAK,1901,2023,123,Oakland Athletics,True
+16,9,NYY,NYY,1903,2023,121,New York Yankees,True
+17,1,LAA,ANA,1961,2023,63,Los Angeles Angels,True
+18,13,TEX,TEX,1961,2023,63,Texas Rangers,True
+19,21,HOU,HOU,1962,2023,62,Houston Astros,True
+20,25,NYM,NYM,1962,2023,62,New York Mets,True
+21,7,KCR,KCR,1969,2023,55,Kansas City Royals,True
+22,23,MIL,MIL,1969,2023,55,Milwaukee Brewers,True
+23,24,WSN,WSN,1969,2023,55,Washington Nationals,True
+24,29,SDP,SDP,1969,2023,55,San Diego Padres,True
+25,11,SEA,SEA,1977,2023,47,Seattle Mariners,True
+26,14,TOR,TOR,1977,2023,47,Toronto Blue Jays,True
+27,19,COL,COL,1993,2023,31,Colorado Rockies,True
+28,20,MIA,FLA,1993,2023,31,Miami Marlins,True
+29,12,TBR,TBD,1998,2023,26,Tampa Bay Rays,True
+30,15,ARI,ARI,1998,2023,26,Arizona Diamondbacks,True
+31,1002,PNA,PNA,1871,1876,6,Philadelphia Athletics,False
+32,1020,CFC,CFC,1871,1872,2,Cleveland Forest Citys,False
+33,1042,KEK,KEK,1871,1871,1,Fort Wayne Kekiongas,False
+34,1053,NNA,NYU,1871,1876,6,New York Mutuals,False
+35,1057,OLY,OLY,1871,1872,2,Washington Olympics,False
+36,1069,ROK,ROK,1871,1871,1,Rockford Forest Citys,False
+37,1080,TRO,TRO,1871,1872,2,Troy Haymakers,False
+38,1005,BLC,BLC,1872,1874,3,Baltimore Canaries,False
+39,1010,BRA,BRA,1872,1875,4,Brooklyn Atlantics,False
+40,1032,ECK,ECK,1872,1872,1,Brooklyn Eckfords,False
+41,1045,MAN,MAN,1872,1872,1,Middletown Mansfields,False
+42,1050,NAT,NAT,1872,1872,1,Washington Nationals,False
+43,1046,MAR,MAR,1873,1873,1,Baltimore Marylands,False
+44,1065,PWS,PWS,1873,1875,3,Philadelphia White Stockings,False
+45,1066,RES,RES,1873,1873,1,Elizabeth Resolutes,False
+46,1083,WBL,WBL,1873,1873,1,Washington Blue Legs,False
+47,1033,HNA,HAR,1874,1877,4,Hartford Dark Blues,False
+48,1019,CEN,CEN,1875,1875,1,Philadelphia Centennials,False
+49,1052,NHV,NHV,1875,1875,1,New Haven Elm Citys,False
+50,1070,SNA,SBS,1875,1877,3,St. Louis Brown Stockings,False
+51,1073,SLR,SLR,1875,1875,1,St. Louis Red Stockings,False
+52,1084,WES,WES,1875,1875,1,Keokuk Westerns,False
+53,1088,WNT,WNT,1875,1875,1,Washington Nationals,False
+54,1028,CNR,CNR,1876,1879,4,Cincinnati Reds,False
+55,1043,LGR,LGR,1876,1877,2,Louisville Grays,False
+56,1035,IBL,IBL,1878,1878,1,Indianapolis Blues,False
+57,1048,MLG,MLG,1878,1878,1,Milwaukee Grays,False
+58,1064,PRO,PRO,1878,1885,8,Providence Grays,False
+59,1015,BUF,BUF,1879,1885,7,Buffalo Bisons,False
+60,1018,CBL,CBL,1879,1884,6,Cleveland Blues,False
+61,1076,SYR,SYR,1879,1879,1,Syracuse Stars,False
+62,1081,TRT,TRT,1879,1882,4,Troy Trojans,False
+63,1089,WOR,WOR,1880,1882,3,Worcester Ruby Legs,False
+64,1028,CNS,CNR,1880,1880,1,Cincinnati Stars,False
+65,1031,DTN,DTN,1881,1888,8,Detroit Wolverines,False
+66,1006,BLN,BLO,1882,1899,18,Baltimore Orioles,False
+67,1044,LOU,LOU,1882,1899,18,Louisville Colonels,False
+68,1060,PHA,PHA,1882,1890,9,Philadelphia Athletics,False
+69,1017,CBK,CBK,1883,1884,2,Columbus Buckeyes,False
+70,1055,NYP,NYP,1883,1887,5,New York Metropolitans,False
+71,1001,ALT,ALT,1884,1884,1,Altoona Mountain Citys,False
+72,1008,BLU,BLU,1884,1884,1,Baltimore Monumentals,False
+73,1011,BRD,BRD,1884,1884,1,Boston Reds,False
+74,1029,COR,COR,1884,1884,1,Cincinnati Outlaw Reds,False
+75,1030,CPI,CPI,1884,1884,1,Chicago/Pittsburgh (Union League),False
+76,1036,IHO,IHO,1884,1884,1,Indianapolis Hoosiers,False
+77,1041,KCU,KCU,1884,1884,1,Kansas City Cowboys,False
+78,1049,MLU,MLU,1884,1884,1,Milwaukee Brewers,False
+79,1061,PHK,PHK,1884,1884,1,Philadelphia Keystones,False
+80,1067,RIC,RIC,1884,1884,1,Richmond Virginians,False
+81,1072,SLM,SLM,1884,1886,3,St. Louis Maroons,False
+82,1075,STP,STP,1884,1884,1,St. Paul Apostles,False
+83,1079,TOL,TOL,1884,1884,1,Toledo Blue Stockings,False
+84,1085,WIL,WIL,1884,1884,1,Wilmington Quicksteps,False
+85,1086,WST,WST,1884,1884,1,Washington Statesmen,False
+86,1090,WNA,WNA,1884,1884,1,Washington Nationals,False
+87,1039,KCN,KCN,1886,1886,1,Kansas City Cowboys,False
+88,1087,WNL,WNL,1886,1889,4,Washington Nationals,False
+89,1026,CLV,CLV,1887,1899,13,Cleveland Spiders,False
+90,1037,IND,IND,1887,1889,3,Indianapolis Hoosiers,False
+91,1038,KCC,KCC,1888,1889,2,Kansas City Cowboys,False
+92,1025,CLS,CLS,1889,1891,3,Columbus Solons,False
+93,1003,BFB,BFB,1890,1890,1,Buffalo Bisons,False
+94,1012,BRG,BRG,1890,1890,1,Brooklyn Gladiators,False
+95,1013,BRS,BRS,1890,1891,2,Boston Reds,False
+96,1016,BWW,BWW,1890,1890,1,Brooklyn Ward's Wonders,False
+97,1022,CHP,CHP,1890,1890,1,Chicago Pirates,False
+98,1024,CLI,CLI,1890,1890,1,Cleveland Infants,False
+99,1054,NYI,NYI,1890,1890,1,New York Giants,False
+100,1058,PBB,PBB,1890,1890,1,Pittsburgh Burghers,False
+101,1062,PHQ,PHQ,1890,1891,2,Philadelphia Athletics,False
+102,1068,ROC,ROC,1890,1890,1,Rochester Broncos,False
+103,1077,SYS,SYS,1890,1890,1,Syracuse Stars,False
+104,1078,TLM,TLM,1890,1890,1,Toledo Maumees,False
+105,1023,CKK,CKK,1891,1891,1,Cincinnati Kelly's Killers,False
+106,1047,MLA,MLA,1891,1891,1,Milwaukee Brewers,False
+107,1082,WAS,WAS,1891,1899,9,Washington Senators,False
+108,9,BLA,NYY,1901,1902,2,Baltimore Orioles,False
+109,1004,BFL,BFL,1914,1915,2,Buffalo Bisons,False
+110,1007,BLT,BLT,1914,1915,2,Baltimore Terrapins,False
+111,1014,BTT,BTT,1914,1915,2,Brooklyn Tip-Tops,False
+112,1021,CHH,CHH,1914,1915,2,Chicago Whales,False
+113,1040,KCP,KCP,1914,1915,2,Kansas City Packers,False
+114,1051,NEW,NEW,1914,1915,2,Newark Pepper,False
+115,1059,PBS,PBS,1914,1915,2,Pittsburgh Rebels,False
+116,1071,SLI,SLI,1914,1915,2,St. Louis Terriers,False
